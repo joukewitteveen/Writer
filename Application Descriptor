@@ -1,7 +1,8 @@
-MIDlet-1: Writer,,Writer
-MIDlet-Jar-URL: Writer.jar
-MIDlet-Name: J2ME Writer
-MIDlet-Vendor: Jouke Witteveen
 MIDlet-Version: 0.1
+MIDlet-Vendor: Jouke Witteveen
+MIDlet-Jar-URL: Writer.jar
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.file.write,javax.microedition.io.Connector.file.read
 MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: Writer,,Writer
 MicroEdition-Profile: MIDP-2.1
+MIDlet-Name: J2ME Writer
